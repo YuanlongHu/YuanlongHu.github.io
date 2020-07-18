@@ -1,2 +1,13 @@
 #theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
+
+
+- label: Menu
+  items:
+    - name: Home
+      link: /
+    - name: Example
+      link: #
+      items:
+        - name: Example1 
+          link: /Example1/
